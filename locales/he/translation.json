@@ -140,7 +140,10 @@
   "num_payments": "מס׳ תשלומים",
   "person_details": "פרטי גורם משלם",
   "summary": "סיכום",
-
+  "document_description_r": "תיאור המסמך *",
+  "document_issue": "נושא",
+  "num": "מס׳",
+  "file_name": "שם הקובץ",
 
   "cities": {
     "Abu Juwei'id": "אבו ג'ווייעד (שבט)",

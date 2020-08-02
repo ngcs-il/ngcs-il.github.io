@@ -30,7 +30,8 @@
     "sign-up": "Sign Up",
     "forget-password": "Forget password",
     "reset": "Reset",
-    "pay": "Pay"
+    "pay": "Pay",
+    "finish": "Finish"
   },
   
   "courts": {
@@ -80,15 +81,18 @@
   
   "first_name": "First Name *",
   "last_name": "Last Name *",
-  "internal_id_name": "ID",
-  "external_id_name": "ID",
-  "internal_id_name_r": "ID *",
-  "external_id_name_r": "ID *",
+  "internal_id_name": "Internal ID",
+  "external_id_name": "External ID",
+  "internal_id_name_r": "Internal ID *",
+  "external_id_name_r": "External ID *",
   "postal_code": "Postal Code",
   "locality": "City",
   "street_and_number": "Street Address",
+  "street_and_number_r": "Street Address",
   "cellular_number": "Phone Number",
+  "cellular_number_r": "Phone Number",
   "cel_number_area_code": "Area Code",
+  "cel_number_area_code_r": "Area Code",
   "email": "Email",
   "claimant": "Claimant",
   "claimant_num": "Claimant",
@@ -137,7 +141,10 @@
   "num_payments": "Payments",
   "person_details": "Details",
   "summary": "Summary",
-  
+  "document_description_r": "Document Description",
+  "document_issue": "Issue",
+  "num": "##",
+  "file_name": "File Name",
 
   "cities": {
     "Abu Juwei'id": "Abu Juwei'id",
