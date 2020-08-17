@@ -1,0 +1,464 @@
+[
+  {
+    "categoryId": "1",
+    "node": {
+      "textId": "1",
+      "yesNode": {
+        "textId": "2",
+        "yesNode": {
+          "textId": "3",
+          "yesNode": {
+            "textId": "4",
+            "yesNode": {
+              "textId": "5",
+              "yesNode": {
+                "textId": "6",
+                "yesNode": {
+                  "textId": "7",
+                  "yesNode": {
+                    "textId": "8",
+                    "yesNode": null,
+                    "noNode": null,
+                    "yesWarningId": null,
+                    "noWarningId": null
+                  },
+                  "noNode": null,
+                  "yesWarningId": null,
+                  "noWarningId": null
+                },
+                "noNode": null,
+                "yesWarningId": "1",
+                "noWarningId": null
+              },
+              "noNode": null,
+              "yesWarningId": null,
+              "noWarningId": null
+            },
+            "noNode": {
+              "textId": "5",
+              "yesNode": {
+                "textId": "6",
+                "yesNode": {
+                  "textId": "7",
+                  "yesNode": {
+                    "textId": "8",
+                    "yesNode": null,
+                    "noNode": null,
+                    "yesWarningId": null,
+                    "noWarningId": null
+                  },
+                  "noNode": null,
+                  "yesWarningId": null,
+                  "noWarningId": null
+                },
+                "noNode": null,
+                "yesWarningId": "1",
+                "noWarningId": null
+              },
+              "noNode": null,
+              "yesWarningId": null,
+              "noWarningId": null
+            },
+            "yesWarningId": null,
+            "noWarningId": "4"
+          },
+          "noNode": {
+            "textId": "4",
+            "yesNode": {
+              "textId": "5",
+              "yesNode": {
+                "textId": "6",
+                "yesNode": {
+                  "textId": "7",
+                  "yesNode": {
+                    "textId": "8",
+                    "yesNode": null,
+                    "noNode": null,
+                    "yesWarningId": null,
+                    "noWarningId": null
+                  },
+                  "noNode": null,
+                  "yesWarningId": null,
+                  "noWarningId": null
+                },
+                "noNode": null,
+                "yesWarningId": "1",
+                "noWarningId": null
+              },
+              "noNode": null,
+              "yesWarningId": null,
+              "noWarningId": null
+            },
+            "noNode": null,
+            "yesWarningId": null,
+            "noWarningId": null
+          },
+          "yesWarningId": null,
+          "noWarningId": "2"
+        },
+        "noNode": {
+          "textId": "4",
+          "yesNode": {
+            "textId": "5",
+            "yesNode": {
+              "textId": "6",
+              "yesNode": {
+                "textId": "7",
+                "yesNode": {
+                  "textId": "8",
+                  "yesNode": null,
+                  "noNode": null,
+                  "yesWarningId": null,
+                  "noWarningId": null
+                },
+                "noNode": null,
+                "yesWarningId": null,
+                "noWarningId": null
+              },
+              "noNode": null,
+              "yesWarningId": "1",
+              "noWarningId": null
+            },
+            "noNode": null,
+            "yesWarningId": null,
+            "noWarningId": null
+          },
+          "noNode": {
+            "textId": "5",
+            "yesNode": {
+              "textId": "6",
+              "yesNode": {
+                "textId": "7",
+                "yesNode": {
+                  "textId": "8",
+                  "yesNode": null,
+                  "noNode": null,
+                  "yesWarningId": null,
+                  "noWarningId": null
+                },
+                "noNode": null,
+                "yesWarningId": null,
+                "noWarningId": null
+              },
+              "noNode": null,
+              "yesWarningId": "1",
+              "noWarningId": null
+            },
+            "noNode": null,
+            "yesWarningId": null,
+            "noWarningId": null
+          },
+          "yesWarningId": null,
+          "noWarningId": "4"
+        },
+        "yesWarningId": null,
+        "noWarningId": null
+      },
+      "noNode": {
+        "textId": "9",
+        "yesNode": {
+          "textId": "10",
+          "yesNode": {
+            "textId": "4",
+            "yesNode": {
+              "textId": "5",
+              "yesNode": {
+                "textId": "6",
+                "yesNode": {
+                  "textId": "7",
+                  "yesNode": {
+                    "textId": "8",
+                    "yesNode": null,
+                    "noNode": null,
+                    "yesWarningId": null,
+                    "noWarningId": null
+                  },
+                  "noNode": null,
+                  "yesWarningId": null,
+                  "noWarningId": null
+                },
+                "noNode": null,
+                "yesWarningId": "1",
+                "noWarningId": null
+              },
+              "noNode": null,
+              "yesWarningId": null,
+              "noWarningId": null
+            },
+            "noNode": {
+              "textId": "5",
+              "yesNode": {
+                "textId": "6",
+                "yesNode": {
+                  "textId": "7",
+                  "yesNode": {
+                    "textId": "8",
+                    "yesNode": null,
+                    "noNode": null,
+                    "yesWarningId": null,
+                    "noWarningId": null
+                  },
+                  "noNode": null,
+                  "yesWarningId": null,
+                  "noWarningId": null
+                },
+                "noNode": null,
+                "yesWarningId": "1",
+                "noWarningId": null
+              },
+              "noNode": null,
+              "yesWarningId": null,
+              "noWarningId": null
+            },
+            "yesWarningId": null,
+            "noWarningId": "4"
+          },
+          "noNode": {
+            "textId": "4",
+            "yesNode": {
+              "textId": "5",
+              "yesNode": {
+                "textId": "6",
+                "yesNode": {
+                  "textId": "7",
+                  "yesNode": {
+                    "textId": "8",
+                    "yesNode": null,
+                    "noNode": null,
+                    "yesWarningId": null,
+                    "noWarningId": null
+                  },
+                  "noNode": null,
+                  "yesWarningId": null,
+                  "noWarningId": null
+                },
+                "noNode": null,
+                "yesWarningId": "1",
+                "noWarningId": null
+              },
+              "noNode": null,
+              "yesWarningId": null,
+              "noWarningId": null
+            },
+            "noNode": null,
+            "yesWarningId": null,
+            "noWarningId": null
+          },
+          "yesWarningId": null,
+          "noWarningId": "3"
+        },
+        "noNode": {
+          "textId": "4",
+          "yesNode": {
+            "textId": "5",
+            "yesNode": {
+              "textId": "6",
+              "yesNode": {
+                "textId": "7",
+                "yesNode": {
+                  "textId": "8",
+                  "yesNode": null,
+                  "noNode": null,
+                  "yesWarningId": null,
+                  "noWarningId": null
+                },
+                "noNode": null,
+                "yesWarningId": null,
+                "noWarningId": null
+              },
+              "noNode": null,
+              "yesWarningId": "1",
+              "noWarningId": null
+            },
+            "noNode": null,
+            "yesWarningId": null,
+            "noWarningId": null
+          },
+          "noNode": {
+            "textId": "5",
+            "yesNode": {
+              "textId": "6",
+              "yesNode": {
+                "textId": "7",
+                "yesNode": {
+                  "textId": "8",
+                  "yesNode": null,
+                  "noNode": null,
+                  "yesWarningId": null,
+                  "noWarningId": null
+                },
+                "noNode": null,
+                "yesWarningId": null,
+                "noWarningId": null
+              },
+              "noNode": null,
+              "yesWarningId": "1",
+              "noWarningId": null
+            },
+            "noNode": null,
+            "yesWarningId": null,
+            "noWarningId": null
+          },
+          "yesWarningId": null,
+          "noWarningId": "4"
+        },
+        "yesWarningId": null,
+        "noWarningId": null
+      },
+      "yesWarningId": null,
+      "noWarningId": null
+    }
+  },
+  {
+    "categoryId": "2",
+    "node": {
+      "textId": "11",
+      "yesNode": {
+        "textId": "12",
+        "yesNode": {
+          "textId": "13",
+          "yesNode": {
+            "textId": "14",
+            "yesNode": {
+              "textId": "15",
+              "yesNode": {
+                "textId": "21",
+                "yesNode": null,
+                "noNode": null,
+                "yesWarningId": null,
+                "noWarningId": null
+              },
+              "noNode": null,
+              "yesWarningId": "12",
+              "noWarningId": null
+            },
+            "noNode": null,
+            "yesWarningId": "11",
+            "noWarningId": null
+          },
+          "noNode": {
+            "textId": "14",
+            "yesNode": null,
+            "noNode": {
+              "textId": "15",
+              "yesNode": null,
+              "noNode": {
+                "textId": "16",
+                "yesNode": {
+                  "textId": "17",
+                  "yesNode": {
+                    "textId": "18",
+                    "yesNode": {
+                      "textId": "19",
+                      "yesNode": {
+                        "textId": "20",
+                        "yesNode": {
+                          "textId": "21",
+                          "yesNode": null,
+                          "noNode": null,
+                          "yesWarningId": null,
+                          "noWarningId": null
+                        },
+                        "noNode": null,
+                        "yesWarningId": null,
+                        "noWarningId": null
+                      },
+                      "noNode": null,
+                      "yesWarningId": null,
+                      "noWarningId": null
+                    },
+                    "noNode": null,
+                    "yesWarningId": null,
+                    "noWarningId": null
+                  },
+                  "noNode": null,
+                  "yesWarningId": null,
+                  "noWarningId": null
+                },
+                "noNode": null,
+                "yesWarningId": null,
+                "noWarningId": null
+              },
+              "yesWarningId": null,
+              "noWarningId": null
+            },
+            "yesWarningId": null,
+            "noWarningId": null
+          },
+          "yesWarningId": "10",
+          "noWarningId": null
+        },
+        "noNode": null,
+        "yesWarningId": null,
+        "noWarningId": null
+      },
+      "noNode": {
+        "textId": "12",
+        "yesNode": null,
+        "noNode": {
+          "textId": "13",
+          "yesNode": null,
+          "noNode": {
+            "textId": "14",
+            "yesNode": null,
+            "noNode": {
+              "textId": "15",
+              "yesNode": null,
+              "noNode": {
+                "textId": "16",
+                "yesNode": null,
+                "noNode": {
+                  "textId": "17",
+                  "yesNode": null,
+                  "noNode": {
+                    "textId": "21",
+                    "yesNode": null,
+                    "noNode": null,
+                    "yesWarningId": null,
+                    "noWarningId": "9"
+                  },
+                  "yesWarningId": null,
+                  "noWarningId": "8"
+                },
+                "yesWarningId": null,
+                "noWarningId": "7"
+              },
+              "yesWarningId": null,
+              "noWarningId": null
+            },
+            "yesWarningId": null,
+            "noWarningId": null
+          },
+          "yesWarningId": null,
+          "noWarningId": null
+        },
+        "yesWarningId": null,
+        "noWarningId": "6"
+      },
+      "yesWarningId": null,
+      "noWarningId": "5"
+    }
+  },
+  {
+    "categoryId": "3",
+    "node": {
+      "textId": "22",
+      "yesNode": {
+        "textId": "23",
+        "yesNode": null,
+        "noNode": null,
+        "yesWarningId": null,
+        "noWarningId": "13"
+      },
+      "noNode": {
+        "textId": "23",
+        "yesNode": null,
+        "noNode": null,
+        "yesWarningId": null,
+        "noWarningId": "13"
+      },
+      "yesWarningId": null,
+      "noWarningId": "14"
+    }
+  }
+]

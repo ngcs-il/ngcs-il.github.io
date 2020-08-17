@@ -7,10 +7,157 @@
   "friend_male": "A boyfriend",
   "friend_female": "A girlfriend",
 
+  "yes": "YES",
+  "no": "NO",
+
+  "agree_with_terms": "By using this service, you agree to the Terms and Conditions.",
+
+  "login": "Login",
+  "logout": "Logout",
+
   "locale_native_name" : "English",
   "locale_english_name" : "English",
 
   "total": "Totally {{sum}} ILS",
+
+  "sc_intro": {
+    "general_information": "GENERAL INFORMATION",
+    
+    "filing_fees": "Filing Fees",
+    "about_the_small_claims_tribunals": "About the Small Claims Tribunals",
+    "location_operating_hours": "Location & Operating Hours",
+    "using_the_system": "Using the Online Justice Services and Tribunals System",
+
+    "applications": "APPLICATIONS",
+
+    "withdrawing_claim": "Withdrawing a claim",
+    "setting_ aside_order_made_your_absence": "Setting aside an Order made in your absence",
+    "changing_consultation_date": "Changing a Consultation date",
+    "admitting_to_claim": "Admitting to a claim",
+
+    "how_to_file_small_claims": "HOW TO FILE A SMALL CLAIMS",
+
+    "before_filing_claim": "Before filing a claim",
+    "filing_claim": "Filing a claim",
+    "serving_claim": "Serving a claim",    
+    "responding_claim": "Responding to a claim",
+    "e_negotiation": "e-Negotiation",
+    "procedure_appeal_to_high_court": "Procedure to file an appeal to High Court",
+
+    "appeals": "APPEALS",
+
+    "appeal_against_registrar_discontinuance_order": "Appeal against Registrar's Discontinuance Order",
+    "appeal_to_high_court": "Appeal to the High Court",
+
+    "going_to_court": "GOING TO COURT",
+
+    "magistrates_courts": "Magistrates' Courts",
+    "attending_consultation": "Attending a Consultation",
+    "attending_hearing": "Attending a Hearing",
+
+    "resources": "RESOURCES",
+
+    "published_court_cases": "Published Court Cases",
+    "enforcing_order_of_the_tribunals": "Enforcing an Order of the Tribunals",
+    "checklist": "Checklist",
+    "forms_brochures": "Forms & Brochures",
+    "useful_links": "Useful links"
+  },
+
+  "finish_score": "Finish Score:",
+
+  "dispute_category": {
+    "1": "CONTRACT FOR SALE OF GOODS",
+    "2": "CONTRACT FOR PROVISION OF SERVICES",
+    "3": "DAMAGE TO PROPERTY",
+    "4": "CONTRACT BREACHES"
+  },
+
+  "disput_item": {
+    "0": "Others",
+
+    "1": "Defective Goods",
+    "2": "Non-Delivery",
+    "3": "Goods Not As Contracted",
+    "4": "Non-Payment",
+    "5": "Cancellation/Opt Out",
+    "6": "Refund (motor vehicle deposit)",
+    "7": "Unfair Practice in relation to Hire Purchase Agreements",
+
+    "8": "Unsatisfactory Services",
+    "9": "Incomplete Services",
+    "10": "Renovation Services",
+    "11": "No Services Rendered",
+    "12": "Non-Payment",
+
+    "13": "Owner of Property",
+    "14": "Damage not arising from motor vehicle accident",
+
+    "15": "Breach of Tenant's Obligation",
+    "16": "Breach of Landlord's Obligation",
+    "17": "Refund of Rental Deposit",
+    "18": "Rental Arrears"
+  },
+
+  "sc_category" : {
+    "1": "Parties Details",
+    "2": "Nature of Dispute",
+    "3": "Service"
+  },
+
+  "sc_questionary" : {
+    "1": "Are you claiming as an individual?",
+    "2": "Are you a bankrupt?",
+    "3": "Do you have permission from Official Assignee to commence court proceedings?",
+    "4": "Are you claiming against the correct party with whom you have a contractual obligation?",
+    "5": "Is the other party an individual?",
+    "6": "Is the other party a bankrupt?",
+    "7": "Is there a mediation/arbitration clause in your agreement?",
+    "8": "Do all parties agree to dispense with the mediation/arbitration clause and have the matter dealt with at SCT?",
+    "9": "We note that you are claiming as a corporate entity. Is your corporate entity in liquidation or winding-up?",
+    "10": "Do you have permission from Official Receiver or Liquidator to commence the proceeding?",
+    "11": "Does your claim relate to a contract for goods sold/bought?",
+    "12": "Is your claim evidenced in writing?",
+    "13": "Are you splitting or dividing your invoice/contract to bring it within SCT's jurisdiction?",
+    "14": "Is your claim related to profit or commission sharing?",
+    "15": "Does your claim relate to or arise out of consignment of goods?",
+    "16": "Has the credit term or delivery date lapsed?",
+    "17": "Were the goods delivered?",
+    "18": "Were there damages or defects to the goods?",
+    "19": "Did you inform the other party of the defects?",
+    "20": "Did the damage or defects occur within 6 months from the Sale of the goods?",
+    "21": "Are you seeking a Money Order, Work Order and/or an Order for delivering vacant possession?",
+    "22": "Is the party/company whom you are filing against residing/located in Israel or have a registered address in Israel?",
+    "23": "Are you able to locate and personally serve/bring the claim to the attention of the other party in Israel?"
+  },
+
+  "sc_warnings" : {
+    "1": "You cannot bring a claim against a bankrupt unless you have the permission from the Official Assignee.",
+    "2": "A bankrupt cannot sue or commence legal actions against another party without the permission from the Official Assignee.",
+    "3": "You cannot bring a claim unless you have permission from the Official Receiver or liquidator.",
+    "4": "You need to ensure that the claim is brought against a party or parties whom you have a contractual obligation with. SCT cannot deal with a matter where the party (or parties) whom you are filing against have no contractual obligation with you.",
+    "5": "Your claim may not relate to a contract for Sale of Goods. Please re-consider whether you have selected the correct nature of dispute.",
+    "6": "You must show evidence or supporting documents to enforce the duties and obligations of the parties under the contract.",
+    "7": "You should wait till the contracted service performance date is due before filing your claim.",
+    "8": "You may wish to consider contacting the other party to understand the reason for the non-delivery and explore mutual settlement before filing your claim.",
+    "9": "SCT is unable to issue any other types of orders.",
+    "10": "No claim shall be split or divided and pursued in separate proceedings at SCT for the sole purpose of bringing the amount claimed in each of such proceedings within the jurisdiction of SCT.",
+    "11": "Business arrangements based on profit or commission sharing basis do not fall within the jurisdiction of the SCT. You may consider filing your claim in another appropriate forum.",
+    "12": "SCT does not have jurisdiction to deal with consignment of goods. You may consider filing your claim in another appropriate forum.",
+    "13": "SCT cannot hear the matter if service has not been performed, ie. you have not brought the claim to the attention of the other party personally.",
+    "14": "You cannot bring a claim against a person or entity who is out of jurisdiction (outside Israel)."
+  },
+
+  "pre_filing_results": {
+    "acknowledgement": "acknowledgement",
+    "you_have_completed": "You have completed the pre-filing assessment. This is your pre-filing assessment ID:",
+    "pre_filing_assessment_id": "A pre-filing assessment ID is required for filing a Claim.",
+    "your_pre_filing_assessment": "Your pre-filing assessment information will be stored for 7 days. Please file your Claim within 7 days using the above mentioned pre-filing assessment ID.",
+    "please_click_here_1": "Please click ",
+    "please_click_here_2": "here",
+    "please_click_here_3": " to save this acknowledgement page for your future reference.",
+    "your_answers": "Your Answers to the Questionnaire"
+  },  
 
   "button":{
     "ok": "OK",
@@ -28,12 +175,33 @@
     "ignore": "Ignore",
     "sign-in": "Sign In",
     "sign-up": "Sign Up",
-    "forget-password": "Forget password",
+    "forgot-password": "Forget password",
     "reset": "Reset",
     "pay": "Pay",
     "finish": "Finish"
   },
-  
+
+  "nav": {
+    "home": "Home",
+    "about_us": "About Us",
+    "courts": "Courts",
+    "trials": "Trials",
+    "cases": "Cases",
+    "decisions": "Decisions",
+    "miscellaneous": "Miscellaneous",
+    "faq": "FAQ",
+    "contact_us": "Contact Us",
+    "search_on_site": "Search the Site",
+    "welcome": "Welcome,",
+    "tehudat_zehut_acronym": "ID"
+  },
+
+  "footer": {
+    "line1": "עות פעילות תמיכה טכנית לאתר בימים א׳-ה׳ בשעות 08:00-17:00, ימי ו׳ וערבי חג בשעות 08:00-12:30, בימי חול המועד בשעות 08:00-12:30, טל: 077-2703-333 או 3852*",
+    "line2": "כל הזכויות שמורות © התשס׳׳ו מדינת ישראל",
+    "line3": "Copyright © 2020 The State of Israel. All Rights Reserved"
+  },
+ 
   "courts": {
     "58": "Local Affairs Ariel",
     "46": "Hello Eilat",
@@ -79,12 +247,16 @@
 
   "required_field": "Required",
   
+  "sc_breadcrumb": "../Apply to Small Claims Court",
   "first_name": "First Name *",
   "last_name": "Last Name *",
+  "type_of_identity": "Identity Type",
   "internal_id_name": "Internal ID",
-  "external_id_name": "External ID",
+  "external_id_name": "Passport",
   "internal_id_name_r": "Internal ID *",
-  "external_id_name_r": "External ID *",
+  "external_id_name_r": "Passport *",
+  "company_id_name": "Company ID",
+  "company_id_name *": "Company ID",
   "postal_code": "Postal Code",
   "locality": "City",
   "street_and_number": "Street Address",
@@ -145,6 +317,18 @@
   "document_issue": "Issue",
   "num": "##",
   "file_name": "File Name",
+
+  "questionary": {
+    "1": "bla-bla",
+    "2": "bla-bla",
+    "3": "bla-bla"
+  },
+
+  "home": {
+    "for_lawyers": "For Lawyers",
+    "to_small_claim_application": "Apply to Small Claims Court",
+    "search_for_case": "Lookup a Case"
+  },
 
   "cities": {
     "Abu Juwei'id": "Abu Juwei'id",
