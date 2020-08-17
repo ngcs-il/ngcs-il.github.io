@@ -1,4 +1,27 @@
-(window["webpackJsonp"] = window["webpackJsonp"] || []).push([["app~3f598d14"],{
+(window["webpackJsonp"] = window["webpackJsonp"] || []).push([["app~e87f11be"],{
+
+/***/ "private-area/private-area-root":
+/*!***********************************************!*\
+  !*** ./src/private-area/private-area-root.ts ***!
+  \***********************************************/
+/*! exports provided: PrivateAreaRoot */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"PrivateAreaRoot\", function() { return PrivateAreaRoot; });\n/* harmony import */ var aurelia_router__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! aurelia-router */ \"4ysu\");\n/* harmony import */ var aurelia_dependency_injection__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! aurelia-dependency-injection */ \"3U8n\");\nvar __decorate = (undefined && undefined.__decorate) || function (decorators, target, key, desc) {\n    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;\n    if (typeof Reflect === \"object\" && typeof Reflect.decorate === \"function\") r = Reflect.decorate(decorators, target, key, desc);\n    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;\n    return c > 3 && r && Object.defineProperty(target, key, r), r;\n};\nvar __metadata = (undefined && undefined.__metadata) || function (k, v) {\n    if (typeof Reflect === \"object\" && typeof Reflect.metadata === \"function\") return Reflect.metadata(k, v);\n};\n\n\nvar PrivateAreaRoot = (function () {\n    function PrivateAreaRoot(router) {\n        this.router = router;\n    }\n    PrivateAreaRoot = __decorate([\n        Object(aurelia_dependency_injection__WEBPACK_IMPORTED_MODULE_1__[\"autoinject\"])(),\n        __metadata(\"design:paramtypes\", [aurelia_router__WEBPACK_IMPORTED_MODULE_0__[\"Router\"]])\n    ], PrivateAreaRoot);\n    return PrivateAreaRoot;\n}());\n\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHJpdmF0ZS1hcmVhL3ByaXZhdGUtYXJlYS1yb290LmpzIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vLy4vc3JjL3ByaXZhdGUtYXJlYS9wcml2YXRlLWFyZWEtcm9vdC50cz84YzQxIl0sInNvdXJjZXNDb250ZW50IjpbImltcG9ydCB7IFJvdXRlciB9IGZyb20gJ2F1cmVsaWEtcm91dGVyJztcbmltcG9ydCB7IGF1dG9pbmplY3QgfSBmcm9tICdhdXJlbGlhLWRlcGVuZGVuY3ktaW5qZWN0aW9uJztcblxuQGF1dG9pbmplY3QoKVxuZXhwb3J0IGNsYXNzIFByaXZhdGVBcmVhUm9vdCB7XG5cbiAgY29uc3RydWN0b3IocHJpdmF0ZSByb3V0ZXI6IFJvdXRlcikge31cbn1cbiJdLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7Ozs7OztBQUFBO0FBQ0E7QUFHQTtBQUVBO0FBQUE7QUFBQTtBQUZBO0FBREE7QUFHQTtBQUZBO0FBR0E7QUFBQTtBQUhBOyIsInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///private-area/private-area-root\n");
+
+/***/ }),
+
+/***/ "private-area/private-area-root.html":
+/*!*************************************************!*\
+  !*** ./src/private-area/private-area-root.html ***!
+  \*************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+eval("// Module\nvar code = \"<template>\\n  <div class=\\\"container-main\\\">\\n    <router-view class=\\\"page\\\"></router-view>\\n  </div>\\n</template>\\n\";\n// Exports\nmodule.exports = code;//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHJpdmF0ZS1hcmVhL3ByaXZhdGUtYXJlYS1yb290Lmh0bWwuanMiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9zcmMvcHJpdmF0ZS1hcmVhL3ByaXZhdGUtYXJlYS1yb290Lmh0bWw/ODk4MSJdLCJzb3VyY2VzQ29udGVudCI6WyIvLyBNb2R1bGVcbnZhciBjb2RlID0gXCI8dGVtcGxhdGU+XFxuICA8ZGl2IGNsYXNzPVxcXCJjb250YWluZXItbWFpblxcXCI+XFxuICAgIDxyb3V0ZXItdmlldyBjbGFzcz1cXFwicGFnZVxcXCI+PC9yb3V0ZXItdmlldz5cXG4gIDwvZGl2PlxcbjwvdGVtcGxhdGU+XFxuXCI7XG4vLyBFeHBvcnRzXG5tb2R1bGUuZXhwb3J0cyA9IGNvZGU7Il0sIm1hcHBpbmdzIjoiQUFBQTtBQUNBO0FBQ0E7QUFDQSIsInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///private-area/private-area-root.html\n");
+
+/***/ }),
 
 /***/ "public-for-lawyers":
 /*!***********************************!*\
