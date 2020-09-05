@@ -148,6 +148,17 @@
     "14": "You cannot bring a claim against a person or entity who is out of jurisdiction (outside Israel)."
   },
 
+  "validation": {
+    "mandatory": "The value is mandatory",
+    "max34000": "The 34,000ILS",
+    "minimum2": "Minimum two characters required",
+    "maximum24": "Maximum 24 characters allowed",
+    "invalid_postal_code": "The Postal Code is invalid",
+    "exactly_9_digits": "Exactly 9 digits expected",
+    "wrongAreaCode": "Wrong Cellular Phone Area Code",
+    "wrongEMail": "Wrong email format"
+  },
+
   "pre_filing_results": {
     "acknowledgement": "acknowledgement",
     "you_have_completed": "You have completed the pre-filing assessment. This is your pre-filing assessment ID:",
@@ -159,9 +170,14 @@
     "your_answers": "Your Answers to the Questionnaire"
   },  
 
+  "common_messages": {
+    "do_you_want_leave_page": "Do you want to leave the page?"
+  },
+
   "button":{
-    "ok": "OK",
-    "save": "Save",
+    "ok": "ok",
+    "save": "save",
+    "dont_save": "don't save",
     "save_as_draft": "Save as Draft",
     "cancel": "Cancel",
     "submit": "Submit",
@@ -194,6 +210,20 @@
     "search_on_site": "Search the Site",
     "welcome": "Welcome,",
     "tehudat_zehut_acronym": "ID"
+  },
+
+  "sidebar" : {
+    "dashboard": "Dashboard",
+    "alerts": "Alerts",
+    "documents": "My Documents",
+    "drafts": "Drafts",
+    "cases": "Active Cases",
+    "applications": "Applications",
+    "archive": "Archive",
+    "payments": "My Payments",
+    "court": "File to Court",
+    "profile": "My Profile",
+    "exit": "Exit"
   },
 
   "footer": {
@@ -248,8 +278,10 @@
   "required_field": "Required",
   
   "sc_breadcrumb": "../Apply to Small Claims Court",
-  "first_name": "First Name *",
-  "last_name": "Last Name *",
+  "first_name": "First Name",
+  "first_name_r": "First Name *",
+  "last_name": "Last Name",
+  "last_name_r": "Last Name *",
   "type_of_identity": "Identity Type",
   "internal_id_name": "Internal ID",
   "external_id_name": "Passport",
@@ -259,6 +291,7 @@
   "company_id_name *": "Company ID",
   "postal_code": "Postal Code",
   "locality": "City",
+  "locality_r": "City *",
   "street_and_number": "Street Address",
   "street_and_number_r": "Street Address",
   "cellular_number": "Phone Number",
@@ -283,12 +316,17 @@
   "claim_description": "The Claim",
   "create_claim_document": "Create the Claim",
   "location": "Where",
+  "location_r": "Where *",
   "claim_text": "The claim",
+  "claim_text_r": "The claim *",
   "sum_of_claim": "The Sum of the Claim",
+  "sum_of_claim_r": "The Sum of the Claim *",
   "date_of_event": "Date of Event",
+  "date_of_event_r": "Date of Event *",
   "confirmation_2": "I hereby confirm that the facts appearing in the statement of claim are filled personally",
   "confirmation_3": "I hereby confirm that the facts appearing in the statement of claim are correct to the best of my own opinion and originated by ...",
   "my_origins": "Origins of the Claim",
+  "my_origins_r": "Origins of the Claim *",
   "optional_documents": "Optional Documents",
   "pay_and_apply": "Pay and Apply",
   "save_for_future_only": "I don't want to apply now, just to save a draft for the future",
@@ -300,7 +338,8 @@
   "entitled_to exemption": "I am entitled to an exemption",
   "exemption_attached": "The application for exemption is attached to the single document uploaded",
   "application_for_exemption": "Upload the application for exemption",
-  "reason_for_claim": "Reason *",
+  "reason_for_claim": "Reason",
+  "reason_for_claim_r": "Reason *",
   "credit_card": "The Credit Card",
   "voucher": "The Voucher",
   "voucher_code": "Voucher Number *",
@@ -317,6 +356,7 @@
   "document_issue": "Issue",
   "num": "##",
   "file_name": "File Name",
+  "guide_filling_small_claim_submission_form": "A guide to filling out a small claim submission form",
 
   "questionary": {
     "1": "bla-bla",

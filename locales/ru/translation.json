@@ -28,6 +28,25 @@
     "reset": "Сброс"
   },
 
+  "validation": {
+    "mandatory": "Обязательное поле",
+    "max34000": "34,000ILS"
+  },
+
+  "sidebar" : {
+    "dashboard": "Панель",
+    "alerts": "Оповещения",
+    "documents": "Мои документы",
+    "drafts": "Черновики",
+    "cases": "Активные дела",
+    "applications": "Приложения",
+    "archive": "Архив",
+    "payments": "Мои платежи",
+    "court": "Обратиться в суд",
+    "profile": "Мой профиль",
+    "exit": "Выход"
+  },
+
  "courts": {
     "58": "Местные дела Ариэль",
     "46": "Привет Эйлат",
@@ -75,11 +94,14 @@
   "required_field": "Обязательно",
   
   "first_name": "Имя",
+  "first_name_r": "Имя *",
   "last_name": "Фамилия",
+  "last_name_r": "Фамилия *",
   "internal_id_name": "ID",
   "external_id_name": "ID",
   "postal_code": "Почтовый индекс",
   "locality": "Город",
+  "locality_r": "Город *",
   "street_and_number": "Улица",
   "cellular_number": "Номер телефона",
   "cel_number_area_code": "Код",
